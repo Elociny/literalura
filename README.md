@@ -30,3 +30,9 @@ Aqui estão as opções disponíveis no menu da aplicação LiterAlura:
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, reportar problemas ou enviar pull requests para o repositório do projeto.
 
 ---
+
+<div align="center">
+ 
+ ![badge literalura](https://github.com/Elociny/Elociny/assets/90219522/1608cbb7-87da-4630-8e69-082e9e4c2488)
+
+</div>
